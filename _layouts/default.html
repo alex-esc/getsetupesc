@@ -16,9 +16,9 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
           {% if site.github.is_project_page %}
-            <a id="forkme_banner" href="{{ site.other.orgrepo }}">View on GitHub</a>
-          <a href="{{ site.other.download }}m" class="button">Download</a>
-          <a id="forkme_banner" href="{{ site.other.learnmore }}">Learn more</a>
+          <a href="{{ site.other.download }}" class="button">Download</a>
+          <a href="{{ site.other.learnmore }}" class="button">Learn more</a>
+          <a href="{{ site.other.orgrepo }}" class="button">Source code</a>
           {% endif %}
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
