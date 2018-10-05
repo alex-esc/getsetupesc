@@ -1,7 +1,6 @@
 theme: jekyll-theme-slate
 title: Setupesc
 description: Make your computer work for you again
-show_downloads: true
 other:
   alexesc: https://alex-esc.github.io/
   orgrepo: https://github.com/alex-esc/setupesc
