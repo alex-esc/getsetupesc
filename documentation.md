@@ -1,7 +1,9 @@
 # Learn more
 
-## About instalation
+## [About instalation](https://slides.com/alexesc/setupesc-installing)
 
-## How to use
+## [How to use](https://slides.com/alexesc/setupesc-howto)
 
-## wiki
+## [wiki](https://alex-esc.github.io/getsetupesc/documentation/wiki.html)
+
+## [Changelog](https://alex-esc.github.io/getsetupesc/documentation/Changelog.html)
