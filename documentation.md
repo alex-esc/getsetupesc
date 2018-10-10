@@ -6,4 +6,4 @@
 
 ## [wiki](https://alex-esc.github.io/getsetupesc/documentation/wiki.html)
 
-## [Changelog](https://alex-esc.github.io/getsetupesc/documentation/Changelog.html)
+## [Changelog](https://alex-esc.github.io/getsetupesc/documentation/changelog.html)
