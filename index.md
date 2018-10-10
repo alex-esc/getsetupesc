@@ -35,7 +35,7 @@ Go to our [updates](https://alex-esc.github.io/getsetupesc/update.html) section.
 
 ## Make setupesc your own
 
-Source code is publicly available on GitHub and we encourage you to make changes of your own.
+Source code is publicly available on GitHub and we encourage you to make changes of your own, learn more on our [documentation](https://alex-esc.github.io/getsetupesc/documentation/wiki.html).
 
 Everything is licensed under the GPL, meaning you can modify to your hearts content or even use this for commercial use.
 
