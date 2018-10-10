@@ -87,7 +87,7 @@ IMPORTANT NOTE, ALL SYMBOLS INSIDE THIS DOCUMENT START WITH '\' JUST IGNORE THAT
 |:--------|:----------------------:|
 | \#      | Win (Windows logo key) |
 | \!      | Alt                    |
-| \^      | Control                |
+|  ^      | Control                |
 | \+      | Shift                  |
 
 **What if I don't know the name.exe of the program I want?**
@@ -98,7 +98,7 @@ Use the path of the program:
 		Run, C:\Users\alex-esc\AppData\Local\Brave\Brave.exe
 		return
 
-Remember that \^ means control and \# means win, therefore to run this shortcut you need to press 'CONTROL + Win + b'
+Remember that ^ means control and \# means win, therefore to run this shortcut you need to press 'CONTROL + Win + b'
 
 **Infinite possibilities!**
 
