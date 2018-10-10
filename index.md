@@ -31,8 +31,7 @@ This is a long time project to morph your computer into a even more usefully too
 
 ## Get updated on every new release
 
-* e-mail notifications
-* RSS
+Go to our [updates](https://alex-esc.github.io/getsetupesc/update.html) section.
 
 ## Make setupesc your own
 
@@ -42,6 +41,6 @@ Everything is licensed under the GPL, meaning you can modify to your hearts cont
 
 ## Contact me
 
-* More info about me on my website
-* My e-mail address
-* Proof of identity
+* [More info about me on my website](https://alex-esc.github.io/)
+* [My e-mail address](https://alex-esc.github.io/contact)
+* [Proof of identity](https://alex-esc.github.io/keybase.txt)
