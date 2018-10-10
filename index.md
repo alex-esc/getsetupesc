@@ -23,11 +23,11 @@ We make it easy to stay organized by simplifying making a new file and categoriz
 
 ### With desktop and laptop in mind
 
-Control touchpad acceleration, screen brightness and power usage with your keyboard
+Control touchpad acceleration, screen brightness and power usage with your keyboard.
 
 ### More to come
 
-This is a long time project to morph your computer into a even more usefully tool, wherever there is potential to increase productivity we will implement.
+This is a long time project to morph your computer into a even more usefully tool, wherever there is potential to increase productivity we will implement new features.
 
 ## Get updated on every new release
 
@@ -35,7 +35,7 @@ Go to our [updates](https://alex-esc.github.io/getsetupesc/update.html) section.
 
 ## Make setupesc your own
 
-Source code is publicly available on GitHub and we encourage you to make changes of your own, learn more on our [documentation](https://alex-esc.github.io/getsetupesc/documentation/wiki.html).
+Source code is publicly available on GitHub and we encourage you to make changes of your own, learn how to make your changes on the [documentation section](https://alex-esc.github.io/getsetupesc/documentation/wiki.html).
 
 Everything is licensed under the GPL, meaning you can modify to your hearts content or even use this for commercial use.
 
