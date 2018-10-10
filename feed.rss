@@ -6,9 +6,13 @@
     <link>https://alex-esc.github.io/getsetupesc/</link>
     <description>Get notified when a new version of setupesc is released</description>
     <language>en-us</language>
+	    <item>
+      <title>A new version of setupesc has been released</title>
+      <enclosure url="https://github.com/alex-esc/setupesc/archive/master.zip" length="" type="" />
+      <description><![CDATA[Version description]]></description>
+    </item>
     <item>
       <title>Welcome to the newsletter</title>
-      <pubDate>Mon, 8 Oct 2018 20:11:14 -0500</pubDate>
       <enclosure url="https://github.com/alex-esc/setupesc/archive/master.zip" length="" type="" />
       <description><![CDATA[Welcome! This is a test for the xml]]></description>
     </item>
