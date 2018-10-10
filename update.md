@@ -6,7 +6,7 @@
 
 ## Get uptaded by e-mail
 
-I recommend using iftt, or blogtrottr
+To get email updates you must use a 3rd party program to check the rss feed for you. I recommend using iftt, or blogtrottr.
 
 <https://ifttt.com/>
 
