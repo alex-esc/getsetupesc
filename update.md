@@ -2,7 +2,7 @@
 
 ## Get uptades by RSS
 
-<https://alex-esc.github.io/getsetupesc/feed.rss>
+<https://github.com/alex-esc/setupesc/releases.atom>
 
 ## Get uptaded by e-mail
 
