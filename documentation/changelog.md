@@ -37,7 +37,7 @@ Previous versions were focused on improving your productivity and yours alone, s
 	- Telegram
 	- Signal
 
-# File manipulation changes	
+## File manipulation changes	
 
 Most of the time spent in front of a computer will be spent manipulating files, you need to create your file, the name it, then open it, you might want to import or copy paste some data from another place so that means extra time lost in the directory weds. We identified this problem and say no more!
 
@@ -84,7 +84,7 @@ Setupesc will be getting version numbers from now on. You can now look at the ch
 
 A small tutorial and explanation of the keyboard shortcuts is now on the website.
 
-# Miscellaneous changes
+## Miscellaneous changes
 
 And finally some miscellaneous changes
 
