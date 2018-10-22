@@ -1,23 +1,98 @@
 # Changelog
 
+<!--
+TODO
+[] Replace date & release version on setupesc.ahk
+[] Update (and check) documentation
+[] Push to main repo
+[] Make release on github
+[] Push to rss
+-->
+
 [**Download the newest version here**](https://github.com/alex-esc/setupesc/archive/master.zip)
 
 ## Current version
 
-- Setupesc :: Version released on October 3rd 2018
-	* The internet at your fingertips and a new way to create files
-		+ added shortcut for creating a new file and immediately opening it with its default editor.
-		+ added shortcut for itunes.
-		+ added shortcut for reddit.
-		+ added shortcut for netflix.
-		+ added shortcut for github.
-		+ added shortcut for Blackboard.
-		+ added shortcut for whatsapp.
-		+ added shortcut for signal.
-		+ added shortcut for telegram.
-		+ added shortcut to bring up startup folder.
-		+ added shortcut to exit setupesc.
-		+ updated documentation.
+# A great productivity boost + opening up to the internet
+
+> Setupesc pre-release, Version released on October 22nd 2018
+
+We are very exited about this project and want to share it with the world so we created a website!
+
++ new website https://alex-esc.github.io/getsetupesc/
++ new rss feed for updates on the website
+
+## Opening up to the internet
+
+Previous versions were focused on improving your productivity and yours alone, stay connected with your team and the internet with this new shortcuts: 
+
++ added website shortcuts for:
+	- Github
+	- Blackboard
+	- Reddit
+	- Netflix
+	- YouTube
++ added instant messenger shortcuts for:
+	- whatsapp
+	- Telegram
+	- Signal
+
+# File manipulation changes	
+
+Most of the time spent in front of a computer will be spent manipulating files, you need to create your file, the name it, then open it, you might want to import or copy paste some data from another place so that means extra time lost in the directory weds. We identified this problem and say no more!
+
+Now you can open your favorite and most commonly accessed folders with a keystroke.
+
++ added folder shortcuts for:
+	- Desktop
+	- Videos
+	- Pictures
+	- Downloads
+	- GitHub
+	- Notebooks
+	- LaTeX Files
+	- Markdown Files
+
+Normally to create a new file you open the desired folder, then right click, name it, if you use any special file format you need to modify the filename to add the file extension then hit enter and then you can begin working with your file. This changes today, now as soon as you open the folder you can press 'ALT + n' and it will prompt you to write the name of a new file, you are free to write the name of the file with the extension (for example 'doctoral-thesis.docx') and as soon as you press enter the file will be created in the current location and the newly created file will be opened right away with the default editor.
+
++ added shortcut for instantly creating and opening a new file.
+
+## New program shortcuts
+
+Now that you know how to manipulate and create files more efficiently you might want to put it to the test with some newly supported programs:
+
++ added Adobe shortcuts for:	
+	- Premiere Pro
+	- Audition
+	- AfterFX
++ added daw shortcuts for:	
+	- Ableton Live
+	- audacity
++ added Latex editor shortcuts for:	
+	- TeXworks
+	- texmaker
++ added program shortcuts for:
+	- Github desktop
+	- itunes
+	- Tor browser
+
+## Coming soon to setupesc
+
+We are getting ready to officially release, so far this script requires some tinkering with, you need to install all the supported programs and correct the paths and slowly put surely we are working on making setupesc as user friendly as possible.
+
+Setupesc will be getting version numbers from now on. You can now look at the changelog, find the newest version on the website and the rss feed.
+
+A small tutorial and explanation of the keyboard shortcuts is now on the website.
+
+# Miscellaneous changes
+
+And finally some miscellaneous changes
+
++ added shortcut to bring up startup folder.
++ added shortcut to exit setupesc.
++ added installers for all needed programs under the folder 'programs-list'.
++ removed 'HOW-TO-INSTALL.txt' and moved installation instructions to the readme file.
++ updated documentation.
 		
 ## Old versions
 
